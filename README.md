@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm [VIKRAM GUNTUKA]
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ### 👨‍💻 About Me:
 I am a passionate developer with a focus on AI and development. I love working on innovative AI projects and exploring new technologies related to AI.
 
@@ -27,7 +25,7 @@ I am a passionate developer with a focus on AI and development. I love working o
 
 ### 📫 How to reach me:
 - **Email:** vikramnetha27@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/vikramnetha)
+- **LinkedIn:** [@vikramnetha](https://linkedin.com/in/vikramnetha)
 - **Instagram:** [@vikrammnetha]
 - - **Hugging face:** [@vikrammnetha](https://huggingface.co/vikramnetha)
    - **kaggle:** [@vikrammnetha](https://www.kaggle.com/vikramnetha)
