@@ -15,8 +15,6 @@ I am a passionate developer with a focus on AI and development. I love working o
 - **Backend:** Node.js
 
 
-### 📈 GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&show_icons=true&theme=radical&layout=compact)
 
 ### 💼 Projects:
 - [Project 1](https://github.com/VIKRAMNETHA/NPL-cuss-words-): This project aims to develop a system to detect cuss words in textual data using Natural Language Processing (NLP). The goal is to create an automated filter that can be integrated into platforms like social media, forums, and chat applications to ensure content moderation..
